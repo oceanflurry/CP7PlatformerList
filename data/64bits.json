@@ -5,12 +5,14 @@
     "creators": ["mrwhite"],
     "verifier": "mrwhite",
     "verification": "",
-    "percentToQualify": "100",
-    "password": "?",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
     "records": [
         {
-            
+            "user": "N/A",
+            "link": "",
+            "percent": 0,
+            "hz": 0
         }
-        
     ]
 }
