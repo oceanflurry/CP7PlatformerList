@@ -1,12 +1,18 @@
 {
     "id": 239,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "name": "12411 12 1089",
+    "author": "Charlie123",
+    "creators": ["Charlie123"],
+    "verifier": "Charlie123",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "?",
     "records": [
+        {
+            "user": "N/A",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
     ]
 }
